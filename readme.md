@@ -2,15 +2,6 @@
 * FRONT END DEVELOPMENT
 * BACK-END DEVELOPMENT
 
-FRONT END <-----------------------------------> BACK END
-    |                                              |
-    |                                              |
-WEB BROWSER                                      SERVER
-    |
-    |
-    |
-END USERS
-
 ### TOOLS FOR FRONT END
 * HTML --> STRUCTURE OF THE WEB PAGE
 * CSS  --> LOOKS BETTER
