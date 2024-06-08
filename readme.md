@@ -32,3 +32,6 @@
 * to create new app: ng new my-dream-app
 * cd my-dream-app
 * ng serve
+
+  ## all practice
+  [practice](https://codesandbox.io/p/sandbox/angular-practice-forked-wx2xc2?file=%2Fsrc%2Fapp%2Fapp.component.html%3A3%2C1)
